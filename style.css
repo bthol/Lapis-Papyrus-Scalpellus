@@ -1,0 +1,28 @@
+body {
+    background-color: rgba(255,255,200,.5);
+}
+
+h1 {
+    font-size: 36px;
+}
+
+button {
+    font-size: 1.11rem;
+    display: block;
+    padding: 5px;
+    margin: 10px auto;
+    width: 200px;
+    border-radius: 25px;
+}
+button:hover {
+    background-color: rgb(220, 24, 24);
+    color: rgb(255, 255, 233);
+}
+
+.text {
+    text-align: center;
+}
+
+p {
+    font-size: 24px;
+}
